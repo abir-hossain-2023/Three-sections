@@ -19,3 +19,12 @@ footer{
     text-align: end;
     text-decoration: underline;
 }
+label{
+    display: block;
+    margin: 10px;
+}
+.placeholder{
+    width: auto;
+    padding-left: 20px;
+    max-width: 400px;
+}
