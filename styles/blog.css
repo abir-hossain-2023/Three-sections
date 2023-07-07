@@ -1,0 +1,21 @@
+nav > ul > li{
+    display: inline;
+    
+}
+nav > ul > li > a{
+    text-decoration: none;
+    
+}
+footer{
+    text-align: center;
+}
+.image{
+    width: 300px;
+    align-content: center;
+}
+.footertext{
+    color: orchid;
+    font-size: larger;
+    text-align: end;
+    text-decoration: underline;
+}
